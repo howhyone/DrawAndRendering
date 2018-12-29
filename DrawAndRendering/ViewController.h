@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "Draw.h"
 @interface ViewController : UIViewController
 
 
